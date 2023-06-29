@@ -1,0 +1,24 @@
+{
+  "posts": [
+    {
+      "id": 7,
+      "task_name": "komal"
+    },
+    {
+      "id": 10,
+      "task_name": "shree"
+    },
+    {
+      "id": 11,
+      "task_name": "Om"
+    },
+    {
+      "id": 12,
+      "task_name": "Sai"
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
